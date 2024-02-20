@@ -3,7 +3,7 @@
 # Hi everybody! My name is Kirill 👋
 </div>
 
-## ⚛️ About me:
+## 📋 About me:
 I am frontend developer from Russia. Completed courses from Practicum.Yandex on web development
 - 💻 I like to create something new and improve the old
 - 🏄 Strive to improve my skills and learn new technologies
