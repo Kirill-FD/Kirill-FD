@@ -1,4 +1,4 @@
-<p align="center" ### Hi everybody! My name is Kirill 👋 >
+<p align="center"> ### Hi everybody! My name is Kirill 👋</p>
 
 ## About me:
 I am frontend developer from Russia
